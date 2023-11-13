@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>com.example.maven-project</groupId>
-  <artifactId>maven-project</artifactId>
+  <groupId>Automation</groupId>
+  <artifactId>Task</artifactId>
   <packaging>pom</packaging>
   <version>1.0-RELEASE</version>
   <name>Sairam</name>
